@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Name Game</string>
+    <string name="question">Who is %s?</string>
+    <string name="cdFace">A face</string>
+    <string name="random_people">Random People</string>
+    <string name="random_person">Random Person</string>
+    <string name="score">Score</string>
+    <string name="time">Avg Time:</string>
+    <string name="seconds">secs</string>
+    <string name="num_correct">Num Correct</string>
+    <string name="avg_time">Average Time</string>
+    <string name="total_time">Total Time</string>
+    <string name="start_time">Start Time</string>
+    <string name="hide">hide</string>
+    <string name="unhide">unhide</string>
+
+</resources>
